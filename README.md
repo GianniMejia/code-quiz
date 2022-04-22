@@ -12,6 +12,6 @@ Player's high scores are stored and can be viewed even after the browser as been
 
 
 
-[Deployed sit] file:///Users/giannimejia/Desktop/projects/code-quiz/index.html
+[Deployed sit] https://giannimejia.github.io/code-quiz/
 
-[Repo] https://giannimejia.github.io/code-quiz/
+[Repo] https://github.com/GianniMejia/code-quiz
