@@ -33,6 +33,10 @@ h1 {
 
 button {
     background-color: greenyellow;
-    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    font-size: large;
 
 }
